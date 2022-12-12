@@ -9,7 +9,7 @@
 fit for use.
 ------------------------------------
 # 3. What is the diff between junit and unit test:
-   > Unit Test : To write Testing Code for all programming languages:
+   > Unit Test : To write Testing Code for all programming languages ,,
    > Junit : To write Testing Code for Android apps you can use JUnit test, which is related to Java, or use
               android testing for Kotlen.
    
